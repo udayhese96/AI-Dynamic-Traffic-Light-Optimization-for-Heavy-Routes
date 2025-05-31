@@ -43,8 +43,8 @@ While the full solution includes multiple components, this repository currently 
   <img src="processed_cars.png" width="200">
   <img src="processed_test1.jpg" width="200">
   <img src="processed_test2.png" width="200">
+  <img src="processed_test3.png" width="200">
   <img src="processed_test4.png" width="200">
-  <img src="processed_test5.png" width="200">
 </p>
 
 ---
