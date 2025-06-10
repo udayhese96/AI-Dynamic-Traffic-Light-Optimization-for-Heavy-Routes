@@ -48,5 +48,5 @@ While the full solution includes multiple components, this repository currently 
   [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 - 🔴 Emergency Vehicle Detection  
-  [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/_KL2drrePso)
+  <iframe width="934" height="526" src="https://www.youtube.com/embed/_KL2drrePso" title="Emergency" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>(https://youtu.be/_KL2drrePso)
 
