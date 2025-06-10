@@ -45,13 +45,8 @@ While the full solution includes multiple components, this repository currently 
 ## 🎥 Sample Output Videos
 
 - 🔵 Vehicle Detection  
-  <video width="500" controls>
-    <source src="object_counting_output (1).mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 - 🔴 Emergency Vehicle Detection  
-  <video width="500" controls>
-    <source src="Emergency.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/_KL2drrePso)
+
