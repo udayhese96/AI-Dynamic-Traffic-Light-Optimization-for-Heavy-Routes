@@ -45,10 +45,10 @@ While the full solution includes multiple components, this repository currently 
 ## 🎥 Sample Output Videos
 
 - 🔵 Vehicle Detection  
-  [![Watch Vehicle Detection Video](https://img.youtube.com/vi/_KL2drrePso/0.jpg)](https://youtu.be/_KL2drrePso)
+  [![Watch Vehicle Detection Video](https://img.youtube.com/vi/q31j47tw9lE/0.jpg)](https://youtu.be/q31j47tw9lE)
   <br>Click on the image above to watch the Vehicle Detection output video.
 
 - 🔴 Emergency Vehicle Detection  
   [![Watch Vehicle Detection Video](https://img.youtube.com/vi/_KL2drrePso/0.jpg)](https://youtu.be/_KL2drrePso)
-  <br>Click on the image above to watch the Vehicle Detection output video.👉 [Click to watch Emergency Vehicle Detection Video](Emergency.mp4)
+  <br>Click on the image above to watch the Vehicle Detection output video.
 
