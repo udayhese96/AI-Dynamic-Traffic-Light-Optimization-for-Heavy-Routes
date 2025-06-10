@@ -28,13 +28,6 @@ While the full solution includes multiple components, this repository currently 
 - ✅ Flow diagram showing the complete pipeline
 - ✅ Sample outputs: images & videos
 
-## 🖼️ Sample Input Images
-
-<p align="center">
-  <img src="images/input_sample1.jpg" alt="Input Sample 1" width="300">
-  <img src="images/input_sample2.jpg" alt="Input Sample 2" width="300">
-</p>
-
 ---
 
 ## 🧪 Processed Output Images
@@ -53,7 +46,7 @@ While the full solution includes multiple components, this repository currently 
 
 - 🔵 Vehicle Detection  
   <video width="500" controls>
-    <source src="videos/vehicle_detection.mp4" type="video/mp4">
+    <source src="object_counting_output (1).mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
